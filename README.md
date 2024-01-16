@@ -1,7 +1,7 @@
 # Data-Engineering-and-visualization
 
 ## Description
-Data files for this project was derived from MIT Election Data and Science Lab (Massachusetts Institute of Technology) and can be found on the Harvard Dataverse. The voter turnout dataset has vote totals for each US Presidential election from 2000 - 2020, for each county in the US. The data and related materials can be found on Esri's (https://www.esri.com) and are intended for educational purposes only (see Terms of Use).
+Data files for this project was derived from MIT Election Data and Science Lab (Massachusetts Institute of Technology) and can be found on the [Havard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ). The voter turnout dataset has vote totals for each US Presidential election from 2000 - 2020, for each county in the US. The data and related materials can be found on Esri's (https://www.esri.com) and are intended for educational purposes only (see Terms of Use).
 
 ## Terms of Use
 None, Harvard Dataverse data is licensed as public domain under CC0 Public Domain Dedication.
