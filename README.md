@@ -18,7 +18,7 @@ The data for this section is obtained from the Harvard Dataverse and the United 
 - Python: ArcGIS Notebook
 In this exercise, ArcGIS Notebooks and the Data Engineering view in ArcGIS Pro was used to perform data engineering tasks. These tasks will use the built-in tools that are available with these products as well as tools that are available by integrating open-source libraries. Using ArcGISNotebooks allows for the documentation and sharing of steps taken to prepare the data for analysis, ensuring transparent and reproducible research or analysis.
 
-## Description
+## Data 
 Data files for this project was derived from MIT Election Data and Science Lab (Massachusetts Institute of Technology) and can be found on the [Havard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ). The voter turnout dataset has vote totals for each US Presidential election from 2000 - 2020, for each county in the US. The data and related materials can be found on Esri's (https://www.esri.com) and are intended for educational purposes only (see Terms of Use).
 
 ## Terms of Use
